@@ -1,0 +1,49 @@
+Sample code,Treatment,MassDifference
+C-7c-Dec,Control,4.5
+C-12B-Dec,Control,6.5
+C-2c-Dec,Control,6.5
+C-15c-Dec,Control,6.5
+C-9A-Dec,Control,8.5
+C-11D-Dec,Control,8.5
+C-2A-Dec,Control,9.5
+C-15A-Dec,Control,9.5
+C-8D-Dec,Control,13.5
+C-13c-Dec,Control,16.5
+C-16B-Dec,Control,23.5
+C-5B-Dec,Control,29.5
+I-1c-Dec,Ivermectin,5.5
+I-7D-Dec,Ivermectin,6.5
+I-9D-Dec,Ivermectin,6.5
+I-14A-Dec,Ivermectin,7.5
+I-9c-Dec,Ivermectin,7.5
+I-6c-Dec,Ivermectin,9.5
+I-1D-Dec,Ivermectin,14.5
+I-1A-Dec,Ivermectin,17.5
+I-3A-Dec,Ivermectin,20.5
+I-3D-Dec,Ivermectin,20.5
+I-13A-Dec,Ivermectin,22.5
+I-4A-Dec,Ivermectin,23.5
+I-6D-Dec,Ivermectin,31.5
+Mc-3B-Dec,Mesh bag control,0.5
+Mc-17A-Dec,Mesh bag control,5.5
+Mc-1B-Dec,Mesh bag control,6.5
+Mc-11c-Dec,Mesh bag control,6.5
+Mc-15B-Dec,Mesh bag control,8.5
+Mc-8B-Dec,Mesh bag control,10.5
+Mc-14D-Dec,Mesh bag control,14.5
+Mc-10B-Dec,Mesh bag control,23.5
+Mc-5D-Dec,Mesh bag control,28.5
+Mc-5A-Dec,Mesh bag control,30.5
+P-3c-Dec,Pyrantel,1.5
+P-10c-Dec,Pyrantel,8.5
+P-10A-Dec,Pyrantel,9.5
+P-17B-Dec,Pyrantel,11.5
+P-13B-Dec,Pyrantel,12.5
+P-4D-Dec,Pyrantel,12.5
+P-14c-Dec,Pyrantel,15.5
+P-5c-Dec,Pyrantel,16.5
+P-18c-Dec,Pyrantel,17.5
+P-8A-Dec,Pyrantel,19.5
+P-12A-Dec,Pyrantel,21.5
+P-11B-Dec,Pyrantel,22.5
+P-8c-Dec,Pyrantel,23.5
