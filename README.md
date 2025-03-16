@@ -1,32 +1,37 @@
-# Effects of Antiparasitic Residues on Dung-Dwelling Invertebrates and Decomposition Processes
- 
- Overview
-This repository contains the research data, analysis, and findings from my Master Thesis at RPTU Kaiserslautern-Landau, titled:
+# 🪲 Effects of Antiparasitic Residues on Dung-Dwelling Invertebrates
 
-Effects of Antiparasitic Residues on Dung-Dwelling Invertebrates and Decomposition Processes
+## 📖 Project Overview
+This repository contains the research and analysis for my **Master Thesis** at **RPTU Kaiserslautern-Landau**. The study investigates how **antiparasitic residues** from veterinary pharmaceuticals (e.g., **Ivermectin and Pyrantel**) affect **dung-dwelling invertebrate communities** and **decomposition processes** in horse dung.
 
-This study investigates the environmental impact of antiparasitic residues, particularly Ivermectin and Pyrantel, on dung-inhabiting invertebrate communities and decomposition rates. The research aims to understand how these veterinary pharmaceuticals affect biodiversity and ecosystem processes, particularly in livestock farming.
+### 🔍 Research Objectives:
+- Assess the impact of **Ivermectin** and **Pyrantel** on **invertebrate diversity**.
+- Evaluate the effects of these residues on **dung decomposition rates**.
+- Compare **soil-dwelling vs. dung-dwelling** invertebrate responses.
 
-Methodology
-Study Site: Annweiler, Rhineland-Palatinate, Germany
-Data Collection: 112 dung samples from horse farms treated with Ivermectin, Pyrantel, or untreated (control).
-Experiments:
-Fauna Diversity Experiment: Analysis of invertebrate diversity using DNA metabarcoding.
-Decomposition Experiment: Measuring dry weight loss of dung samples to assess decomposition rates.
-Laboratory Analysis:
-DNA Extraction, PCR, and Bioinformatics Analysis (Metabarcoding).
-Statistical Analysis in R using ggplot2, vegan, dplyr.
 
-Key Findings
-Ivermectin significantly reduced invertebrate abundance, whereas Pyrantel had a weaker effect.
-No significant impact of antiparasitic residues on overall species richness.
-Dung decomposition rates were not significantly affected, indicating microbial activity compensated for invertebrate loss.
-Soil-dwelling invertebrates were less impacted than dung-dwelling communities.
+## 🧪 Methodology
+- **📍 Field Site:** Annweiler, Rhineland-Palatinate, Germany
+- **📝 Study Design:** 112 dung samples from horses treated with:
+  - **Ivermectin** (Anthelmintic treatment)
+  - **Pyrantel** (Anthelmintic treatment)
+  - **Control group** (untreated dung)
+- **🔬 Experimental Setup:**
+  - **Fauna Diversity Experiment** (DNA metabarcoding analysis of invertebrates)
+  - **Decomposition Experiment** (Measurement of dry weight loss over time)
+- **🖥️ Statistical Analysis:** Conducted in **R** using:
+  - `ggplot2`, `vegan`, `dplyr`, `tidyr`, `lme4`
+  - **ANOVA, t-tests, Shannon Diversity Index, NMDS & PERMANOVA**
 
-How to Use
-If you want to analyze the dataset or reproduce the statistical analysis:
+## 🔬 Key Findings
+- **Ivermectin significantly reduces invertebrate abundance** in dung.
+- **Pyrantel has a weaker impact** on dung fauna.
+- **No significant effect on overall species richness**, suggesting some species resilience.
+- **Dung decomposition rates remain unaffected**, likely due to microbial compensation.
+- **Soil fauna are less impacted** than dung fauna.
 
-Clone this repository:
+## 💻 How to Use
+### 🔹 Clone this repository:
+```sh
 git clone https://github.com/yourusername/dung-invertebrate-study.git
 cd dung-invertebrate-study
 
@@ -34,18 +39,14 @@ Install dependencies in R:
 install.packages(c("ggplot2", "vegan", "dplyr", "tidyr", "lme4"))
 
 Run the analysis:
-source("scripts/analysis.R")
+source("R-script.R")
 
-References
-Beynon et al. (2012). Consequences of antiparasitic residues on dung beetles. Agriculture, Ecosystems & Environment.
-Floate et al. (2016). Validation of antiparasitic residue field tests. Environmental Toxicology and Chemistry.
-Manning et al. (2017). Quantifying anthelmintic exposure effects. Ecological Entomology.
 
-Author
-Shaghayegh Gooranorimi
-Master of Environmental Science, RPTU Kaiserslautern-Landau
-shaqayeq.g1997@gmail.com
 
-Acknowledgments
-Special thanks to Dr. Bernhard Eitzinger and PD Dr. Jens Schirmel for their supervision and guidance, as well as to the research facilities at RPTU Kaiserslautern-Landau.
+
+
+
+
+
+
 
